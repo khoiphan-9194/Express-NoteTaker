@@ -58,6 +58,18 @@ The following animation demonstrates the application functionality:
 # Credits
 Created by Khoi Phan.
 
-# Questions
-For additional questions and information, please go to github.com/khoiphan-9194/
-or reach out via email at phanminhkhoi91@gmail.com.
+
+## License
+[![License: MIT](https://img.shields.io/badge/license-MIT-red)](https://opensource.org/licenses/MIT)
+
+SVG Logo Maker © is licensed under the MIT license.  
+
+For more information regarding the SVG Logo Maker's license, please visit: 
+https://opensource.org/licenses/MIT
+
+  
+## Questions?
+  
+### Github:[khoiphan-9194](https://github.com/khoiphan-9194)
+  
+### Reach Me Via Email: phanminhkhoi91@gmail.com

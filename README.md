@@ -52,7 +52,7 @@ When clicking on an existing note in the list in the left-hand column, that note
 ![Screenshot2.](./Assets/2.JPG)
 
 
-* In order to run the application, click on the [Khoi Phan Scheduler](https://khoiphan-9194.github.io/Work-Day-Scheduler/)
+* In order to run the application, click on the [Khoi Phan Note Taker](https://noke-taker-17f4af4bd0c0.herokuapp.com/)
 The following animation demonstrates the application functionality:
 
 # Credits
